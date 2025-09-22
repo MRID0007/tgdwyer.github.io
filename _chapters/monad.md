@@ -407,7 +407,7 @@ putStrLn $ (greet >>= body >>= signoff) "\r\n"
 >
 > It has come to my attention that…  
 >
-> Your’s truly,  
+> Yours truly,  
 > Tim
 
 In the next example we use the argument `3` in three different functions without passing it directly to any of them.
